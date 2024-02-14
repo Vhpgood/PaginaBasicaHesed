@@ -1,0 +1,65 @@
+body{
+    background: rgb(242,43,10);
+}
+
+#logo {
+   
+    width: 20%;
+    margin-left: 10%;
+}   
+
+.tituloscentrales {
+    display:inline-block ;
+    vertical-align:top ;
+    padding: 4%;
+    text-align: center;
+    Font-size:20px;
+
+}
+
+.presentacion {
+    background: rgb(248, 80, 51);
+}
+
+
+p{
+    text-align: center;  
+    Font-size:30px;
+} 
+
+em strong {
+    color: rgb(255, 255, 255); 
+}
+
+#mission{
+    Font-size:40px;
+
+}
+
+.productos {
+    background: rgb(248, 80, 51);
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+ul{
+
+    display:inline-block ;
+    vertical-align:top ;
+    margin-right: 15%;
+    margin-left: 20%;
+
+}
+
+.items {
+    font-style: italic;
+    font-size: 30px;
+   
+}
+
+.imagenpan {
+    width: 20%;
+}
